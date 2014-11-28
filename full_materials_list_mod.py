@@ -1,0 +1,15 @@
+full_materials_list = [
+('Steel',[-4.4]), 
+('Carbon',[-5.0]),
+('alpha-NPD',[-5.5, -2.4]), 
+('Perovskite',[-5.4,-3.4]), 
+('Titanium Dioxide',[-7.7,-4.4]), 
+('PEDOT:PSS',[-4.7]),
+('Zinc Oxide',[-6.6,-3.4]),
+('FTO', [-4.4]),
+('ITO', [-4.7]),
+('Gold', [-5.1]),
+('Silver', [-4.5]),
+('Aluminium', [-4.3]),
+('PCBM', [-6.1, -4.3]),
+]
